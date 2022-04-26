@@ -13,6 +13,10 @@ A implementação do sistema trará aos usuários um melhor retorno para identif
 
 Vale salientar que o sistema não entregará certeza absoluta pois funcionará em sua grande forma analisando relatórios em tempo real e também baseado em relatos de usuários
 
+## Casos de Uso
+
+### Caso 1
+
 ## Requisitos Funcionais
 
 - [ ] Se Conectar com o Nosso Banco de Dados
