@@ -29,3 +29,4 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
 - [ ] Garantir integridade dos dados
 - [ ] Estar na Lingua Portuguesa 
 - [ ] Deve Proteger Dados Sensiveis
+- [ ] Funcionamento 24/7
