@@ -18,11 +18,11 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
 ### Caso 1
 #### Usuário se cadastrar 
 
-Ator(es): Usuário do sistema
-Descrição: O usuário se inscreve na plataforma para fazer uso da mesma
-Gatilho: Ter acesso a plataforma
-Pré-condições: Plataforma funcionando e usuário com acesso a plataforma
-Pós-condições: Usuário cadastrado na plataforma
+Ator(es): Usuário do sistema.
+Descrição: O usuário se inscreve na plataforma para fazer uso da mesma.
+Gatilho: Ter acesso a plataforma.
+Pré-condições: Plataforma funcionando e usuário com acesso a plataforma.
+Pós-condições: Usuário cadastrado na plataforma.
 Fluxo principal (esboço): 
 
 1 - Usuário acessa a plataforma
