@@ -13,6 +13,26 @@ A implementação do sistema trará aos usuários um melhor retorno para identif
 
 Vale salientar que o sistema não entregará certeza absoluta pois funcionará em sua grande forma analisando relatórios em tempo real e também baseado em relatos de usuários
 
+
+
+## Requisitos Funcionais
+
+- [ ] Se Conectar com o Nosso Banco de Dados
+- [ ] Incluir Registros
+- [ ] Validar Registros
+- [ ] Criar conta
+- [ ] Authenticar conta
+- [ ] Gerar Relatorios
+- [ ] Enviar mensagem no telegram
+
+## Requisitos Não Funcionais
+
+- [ ] Funcionar em todos os Navegadores
+- [ ] Garantir integridade dos dados
+- [ ] Estar na Lingua Portuguesa 
+- [ ] Deve Proteger Dados Sensiveis
+- [ ] Funcionamento 24/7
+
 ## Casos de Uso 
 
 ### Caso 1
@@ -53,23 +73,6 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
   2. Usuário solicita um relatório através da opção "Gerar relatório"
   3. Um relatório é gerado e baixado pelo dispositivo do usuário
 
-## Requisitos Funcionais
-
-- [ ] Se Conectar com o Nosso Banco de Dados
-- [ ] Incluir Registros
-- [ ] Validar Registros
-- [ ] Criar conta
-- [ ] Authenticar conta
-- [ ] Gerar Relatorios
-- [ ] Enviar mensagem no telegram
-
-## Requisitos Não Funcionais
-
-- [ ] Funcionar em todos os Navegadores
-- [ ] Garantir integridade dos dados
-- [ ] Estar na Lingua Portuguesa 
-- [ ] Deve Proteger Dados Sensiveis
-- [ ] Funcionamento 24/7
 
 ## Arquitetura
 
