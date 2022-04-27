@@ -23,11 +23,11 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
 - Pré-condições: Plataforma funcionando e usuário com acesso a plataforma.
 - Pós-condições: Usuário cadastrado na plataforma.
 - Fluxo principal (esboço): 
-1. Usuário acessa a plataforma
-2. Usuário acessa a opção "Cadastre-se" na tela
-3. Usuário preenche os campos com seus dados
-4. Usuário confirma seus dados 
-5. Usuário é cadastrado
+  1. Usuário acessa a plataforma
+  2. Usuário acessa a opção "Cadastre-se" na tela
+  3. Usuário preenche os campos com seus dados
+  4. Usuário confirma seus dados 
+  5. Usuário é cadastrado
 
 # Caso 2
 ### Registrar problemas em um serviço 
