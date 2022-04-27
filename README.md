@@ -88,3 +88,7 @@ Fluxo principal (esboço):
 - [ ] Estar na Lingua Portuguesa 
 - [ ] Deve Proteger Dados Sensiveis
 - [ ] Funcionamento 24/7
+
+## Arquitetura
+
+![Arquitetura v1.0.0](https://github.com/meajudaaqui/documentacao/blob/main/imagens/arquitetura-v1.0.0.png?raw=true)
