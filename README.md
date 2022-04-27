@@ -13,9 +13,45 @@ A implementação do sistema trará aos usuários um melhor retorno para identif
 
 Vale salientar que o sistema não entregará certeza absoluta pois funcionará em sua grande forma analisando relatórios em tempo real e também baseado em relatos de usuários
 
-## Casos de Uso
+## Casos de Uso 
 
 ### Caso 1
+#Usuário se cadastrar
+Ator(es): Usuário do sistema
+Descrição: O usuário se inscreve na plataforma para fazer uso da mesma
+Gatilho: Ter acesso a plataforma
+Pré-condições: Plataforma funcionando e usuário com acesso a plataforma
+Pós-condições: Usuário cadastrado na plataforma
+Fluxo principal (esboço): 
+1 - Usuário acessa a plataforma
+2 - Usuário acessa a opção "Cadastre-se" na tela
+3 - Usuário preenche os campos com seus dados
+4 - Usuário confirma seus dados 
+5 - Usuário é cadastrado
+
+### Caso 2
+#Registrar problemas em um serviço 
+Ator(es): Usuário do sistema
+Descrição: O usuário relata problema ou incidente em um serviço
+Gatilho: Ter algum incidente no serviço em questão
+Pré-condições: Plataforma funcionando, usuário cadastrado e logado, serviço listado na plataforma
+Pós-condições: Registro concluído sobre incidente no serviço
+Fluxo principal (esboço):
+1 - Usuário logado acessa a opção "Reporte um incidente"
+2 - Usuário preenche os campos relacionados ao serviço e descreve o incidente
+3 - É gerado um novo report sobre o serviço 
+
+### Caso 3
+#Solicitar relatório
+Ator(es): Usuário do sistema
+Descrição: O usuário solicita um relatório gerado pela plataforma
+Gatilho: Usuário interessado em saber as condições do serviço
+Pré-condições: Plataforma funcionando, registro de incidentes antigos no serviço em questão
+Pós-condições: Relatório gerado pela plataforma
+Fluxo principal (esboço):
+1 - Usuário logado acessa a página do serviço desejado na plataforma
+2 - Usuário solicita um relatório através da opção "Gerar relatório"
+3 - Um relatório é gerado e baixado pelo dispositivo do usuário
 
 ## Requisitos Funcionais
 
