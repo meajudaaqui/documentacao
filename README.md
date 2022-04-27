@@ -29,47 +29,29 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
   4. Usuário confirma seus dados 
   5. Usuário é cadastrado
 
-# Caso 2
-### Registrar problemas em um serviço 
+### Caso 2
+#### Registrar problemas em um serviço 
+- Ator(es): Usuário do sistema
+- Descrição: O usuário relata problema ou incidente em um serviço
+- Gatilho: Ter algum incidente no serviço em questão
+- Pré-condições: Plataforma funcionando, usuário cadastrado e logado, serviço listado na plataforma
+- Pós-condições: Registro concluído sobre incidente no serviço
+- Fluxo principal (esboço):
+  1. Usuário logado acessa a opção "Reporte um incidente"
+  2. Usuário preenche os campos relacionados ao serviço e descreve o incidente
+  3. É gerado um novo report sobre o serviço 
 
-Ator(es): Usuário do sistema
-
-Descrição: O usuário relata problema ou incidente em um serviço
-
-Gatilho: Ter algum incidente no serviço em questão
-
-Pré-condições: Plataforma funcionando, usuário cadastrado e logado, serviço listado na plataforma
-
-Pós-condições: Registro concluído sobre incidente no serviço
-
-Fluxo principal (esboço):
-
-1 - Usuário logado acessa a opção "Reporte um incidente"
-
-2 - Usuário preenche os campos relacionados ao serviço e descreve o incidente
-
-3 - É gerado um novo report sobre o serviço 
-
-# Caso 3
-### Solicitar relatório
-
-Ator(es): Usuário do sistema
-
-Descrição: O usuário solicita um relatório gerado pela plataforma
-
-Gatilho: Usuário interessado em saber as condições do serviço
-
-Pré-condições: Plataforma funcionando, registro de incidentes antigos no serviço em questão
-
-Pós-condições: Relatório gerado pela plataforma
-
-Fluxo principal (esboço):
-
-1 - Usuário logado acessa a página do serviço desejado na plataforma
-
-2 - Usuário solicita um relatório através da opção "Gerar relatório"
-
-3 - Um relatório é gerado e baixado pelo dispositivo do usuário
+### Caso 3
+#### Solicitar relatório
+- Ator(es): Usuário do sistema
+- Descrição: O usuário solicita um relatório gerado pela plataforma
+- Gatilho: Usuário interessado em saber as condições do serviço
+- Pré-condições: Plataforma funcionando, registro de incidentes antigos no serviço em questão
+- Pós-condições: Relatório gerado pela plataforma
+- Fluxo principal (esboço):
+  1. Usuário logado acessa a página do serviço desejado na plataforma
+  2. Usuário solicita um relatório através da opção "Gerar relatório"
+  3. Um relatório é gerado e baixado pelo dispositivo do usuário
 
 ## Requisitos Funcionais
 
