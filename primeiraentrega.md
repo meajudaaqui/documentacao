@@ -1,17 +1,5 @@
 # Concepção do Projeto
 
-## Grupo 7 
-- Allan Breno Ferreira Pereira
-- Daniel de Andrade Teixeira
-- Danilo Siqueira Oliveira
-- Douglas caldeira de souza
-- Eduardo da Motta Saldumbides
-- Gabriel Barbedo
-- Gabriel Carvalho Bortoli
-- Glauber Guimarães Batista Silveira
-- Gustavo da Silva Santos
-- Paulo Augusto de Macena Pereira
-
 ## Escopo
 
 O sistema tem por objetivo geral auxiliar aos usuários a verificarem o status em tempo real de serviços e aplicações na web.
@@ -24,8 +12,6 @@ O sistema deverá permitir a geração de relatórios específicos para cada apl
 A implementação do sistema trará aos usuários um melhor retorno para identificação de problemas, além de conter um histórico datado das  falhas ocorridas detectadas.
 
 Vale salientar que o sistema não entregará certeza absoluta pois funcionará em sua grande forma analisando relatórios em tempo real e também baseado em relatos de usuários
-
-
 
 ## Requisitos Funcionais
 
@@ -89,3 +75,15 @@ fazer fluxo alternativo de dados inválidos por exemplo
 ## Arquitetura
 
 ![Arquitetura v1.0.0](https://github.com/meajudaaqui/documentacao/blob/main/imagens/arquitetura-v1.0.0.png?raw=true)
+
+## Grupo 7 
+- Allan Breno Ferreira Pereira
+- Daniel de Andrade Teixeira
+- Danilo Siqueira Oliveira
+- Douglas caldeira de souza
+- Eduardo da Motta Saldumbides
+- Gabriel Barbedo
+- Gabriel Carvalho Bortoli
+- Glauber Guimarães Batista Silveira
+- Gustavo da Silva Santos
+- Paulo Augusto de Macena Pereira
