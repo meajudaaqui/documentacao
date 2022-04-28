@@ -1,5 +1,17 @@
 # Concepção do Projeto
 
+## Grupo 7 
+- Allan Breno Ferreira Pereira
+- Daniel de Andrade Teixeira
+- Danilo Siqueira Oliveira
+- Douglas caldeira de souza
+- Eduardo da Motta Saldumbides
+- Gabriel Barbedo
+- Gabriel Carvalho Bortoli
+- Glauber Guimarães Batista Silveira
+- Gustavo da Silva Santos
+- Paulo Augusto de Macena Pereira
+
 ## Escopo
 
 O sistema tem por objetivo geral auxiliar aos usuários a verificarem o status em tempo real de serviços e aplicações na web.
