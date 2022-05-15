@@ -76,7 +76,7 @@ fazer fluxo alternativo de dados inválidos por exemplo
 
 ## Arquitetura
 
-![Arquitetura v1.0.0](https://github.com/meajudaaqui/documentacao/blob/main/imagens/arquitetura-v1.0.0.png?raw=true)
+![Arquitetura v1.0.0](https://github.com/meajudaaqui/documentacao/blob/main/imagens/arquitetura-v1.0.1.png?raw=true)
 
 ## Grupo 7 
 - Allan Breno Ferreira Pereira
