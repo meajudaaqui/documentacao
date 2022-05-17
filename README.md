@@ -17,21 +17,25 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
 
 ## Requisitos Funcionais
 
-- [ ] Se Conectar com o Nosso Banco de Dados
-- [ ] Incluir Registros
-- [ ] Validar Registros
-- [ ] Criar conta
-- [ ] Authenticar conta
-- [ ] Gerar Relatorios
+
+- [ ] Cadastro de conta
+- [ ] Login de usuário cadastrado
+- [ ] Alteração de dados do usuário
+- [ ] Reportar incidente
+- [ ] Consulta de sistemas cadastrados
+- [ ] Listagem de sistemas cadastrados
+- [ ] Solicitar Relatórios
 - [ ] Enviar mensagem no telegram
 
 ## Requisitos Não Funcionais
 
-- [ ] Funcionar em todos os Navegadores
-- [ ] Garantir integridade dos dados
+- [ ] Funcionar nos principais navegadores (Google Chrome,Mozilla Firefox e Internet Explorer)
+- [ ] Garantir pelo menos taxa de 99,9% de integridade nos dados 
 - [ ] Estar na Lingua Portuguesa 
-- [ ] Deve Proteger Dados Sensiveis
-- [ ] Funcionamento 24/7
+- [ ] Conexão com o Banco de dados (Ainda não foi definido)
+- [ ] Deve proteger dados do usuário (Nome, idade, IP e e-mail.)
+- [ ] Funcionamento 24h por dia, durante os 7 dias da semana
+- [ ] Autenticar conta
 
 ## Casos de Uso 
 
