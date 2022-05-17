@@ -82,6 +82,9 @@ fazer fluxo alternativo de dados inválidos por exemplo
 
 ![Arquitetura v1.0.0](https://github.com/meajudaaqui/documentacao/blob/main/imagens/arquitetura-v1.0.1.png?raw=true)
 
+- Descrição da Arquitetura:
+
+
 ## Grupo 7 
 - Allan Breno Ferreira Pereira
 - Daniel de Andrade Teixeira
