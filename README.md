@@ -51,6 +51,20 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
   3. Usuário confirma seus dados 
   4. Usuário é cadastrado
 
+- Fluxo alternativo:
+
+  A1.1  Usuário acessa a opção "Cadastre-se" na tela
+
+  A1.2  Usuário preenche os campos com seus dados
+
+  A1.3  Usuário confirma seus dados 
+
+  A1.4. Usuário preenche algum campo com dados inválidos
+
+  A1.5. Sistema apresenta a mensagem de que há dados inválidos e destaca o campo 
+
+  A1.6. Sistema retorna o usuário para o passo 2 do fluxo principal
+
 ### Caso 2
 #### Registrar problemas em um serviço 
 - Ator(es): Usuário do sistema
@@ -63,7 +77,25 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
   2. Usuário fornece os dados relacionados ao serviço (nome do serviço, duração, tipo de incidente) e descreve o incidente
   3. O sistema cadastra os dados do incidente do serviço
 
-fazer fluxo alternativo de dados inválidos por exemplo
+- Fluxo alternativo 1:
+
+  A1.1  Usuário acessa a opção "Reporte um incidente"
+
+  A1.2. Algum campo não foi preenchido corretamente
+
+  A1.3. Sistema apresenta a mensagem de que há dados inválidos e destaca o campo 
+
+  A1.4. Sistema retorna o usuário para o passo 2 do fluxo principal
+
+ - Fluxo alternativo 2:
+
+  A2.1. Usuário acessa a opção "Reporte um incidente"
+
+  A2.2. Usuário fornece os dados relacionados a um serviço não cadastrado no banco
+
+  A2.3. Sistema apresenta a mensagem "Sistema não cadastrado"
+
+  A2.4. Sistema retorna o usuário para o passo 2 do fluxo principal
 
 ### Caso 3
 #### Solicitar relatório
@@ -77,11 +109,18 @@ fazer fluxo alternativo de dados inválidos por exemplo
   2. Usuário solicita um relatório através da opção "Gerar relatório"
   3. Um relatório é gerado e baixado pelo dispositivo do usuário
 
+- Fluxo alternativo:
+
+  A1.1. Usuário acessa a página do serviço desejado no sistema
+
+  A1.2. Sistema não fornece a opção "Gerar relatório" por não haver registros suficientes de incidentes no sistema relatado
+
+  A1.3. Sistema retorna o usuário para o passo 2 do fluxo principal
+
 
 ## Arquitetura
 
-![Arquitetura v1.0.1](https://github.com/meajudaaqui/documentacao/blob/main/imagens/arquitetura-v1.0.1.png?raw=true)
-
+![Arquitetura v1.0.0](https://github.com/meajudaaqui/documentacao/blob/main/imagens/arquitetura-v1.0.1.png?raw=true)
 
 ## Grupo 7 
 - Allan Breno Ferreira Pereira
