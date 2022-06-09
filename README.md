@@ -39,6 +39,8 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
 
 ## Casos de Uso 
 
+![casoDeUso v1.0.1](https://github.com/meajudaaqui/documentacao/blob/main/imagens/casoDeUso-v-1.0.1.png?raw=true)
+
 ### Caso 1
 #### Usuário se cadastrar 
 - Ator(es): Usuário do sistema.
