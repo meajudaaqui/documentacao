@@ -97,7 +97,7 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
 
   A2.3. Sistema apresenta a mensagem "Sistema não cadastrado"
 
-  A2.4. Sistema retorna o usuário para o passo 2 do fluxo principal
+  A2.4. Sistema retorna o usuario para o passo 2 do fluxo principal
 
 ### Caso 3
 #### Solicitar relatório
