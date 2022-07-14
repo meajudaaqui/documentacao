@@ -131,9 +131,7 @@ Vale salientar que o sistema não entregará certeza absoluta pois funcionará e
 - Douglas caldeira de souza
 - Eduardo da Motta Saldumbides
 - Gabriel Barbedo
-- Gabriel Carvalho Bortoli
 - Glauber Guimarães Batista Silveira
-- Guilherme Campos
 - Gustavo da Silva Santos
 - Leonardo Menezes
 - Paulo Augusto de Macena Pereira
